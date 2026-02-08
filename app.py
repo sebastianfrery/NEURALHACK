@@ -15,7 +15,7 @@ Esta interfaz permite visualizar las métricas de movilidad automatizadas y veri
 @st.cache_data
 def load_data():
     # Carga el CSV que generó tu pipeline
-    return pd.read_csv("estudio_final_neuralhack_v2.csv")
+    return pd.read_csv("output/estudio_final_neuralhack_v2.csv")
 
 try:
     df = load_data()

@@ -2,7 +2,7 @@
 TRAFFIC ANALYTICS SYSTEM - NEURALHACK TEAM SEBASTIAN
 Integración de Visión Artificial (YOLOv8), Análisis de Smart City y Blockchain.
 """
-
+!pip install ultralytics -q
 import os
 import glob
 import hashlib

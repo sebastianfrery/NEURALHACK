@@ -83,8 +83,13 @@ https://www.kaggle.com/datasets/javiersanchezsoriano/roundabout-aerial-images-fo
 * **Resultados**: [Carpeta /output/](./output/estudio_final_neuralhack_v2.csv). Resultados del codigo fuente.
 * **Documentación Técnica**: [Descargar Memoria en PDF](./docs/Memoria_Tecnica_NeuralHack_Team_Pro.pdf) 📄
 * **Demo**: [Vídeo del funcionamiento](enlace-a-tu-video) 🎥
-* **Frontend en la nube**:https://neuralhack-esf6q74a9hayw3hdr2evp5.streamlit.app
+* **Frontend**:
 
+  ### 🖥️ Ejecución del Dashboard (Local)
+Para visualizar los resultados de forma interactiva sin depender de servicios externos:
+1. Instale las dependencias: `pip install -r requirements.txt`
+2. Ejecute la aplicación: `streamlit run app.py`
+3. El dashboard se abrirá automáticamente en su navegador en `http://localhost:8501`
 
 ---
 

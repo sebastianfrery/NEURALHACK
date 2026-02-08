@@ -82,7 +82,7 @@ https://www.kaggle.com/datasets/javiersanchezsoriano/roundabout-aerial-images-fo
 * **Código Fuente**: [Carpeta /src](./src/main.py) con la lógica de IA y Blockchain.
 * **Resultados**: [Carpeta /output/](./output/estudio_final_neuralhack_v2.csv). Resultados del codigo fuente.
 * **Documentación Técnica**: [Descargar Memoria en PDF](./docs/Memoria_Tecnica_NeuralHack_Team_Pro.pdf) 📄
-* **Demo**: [Vídeo del funcionamiento](enlace-a-tu-video) 🎥
+* **Demo**: Enviado al correo 🎥
 * **Frontend**:
 
   ### 🖥️ Ejecución del Dashboard (Local)

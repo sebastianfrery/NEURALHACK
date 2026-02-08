@@ -60,6 +60,7 @@ Para asegurar que los resultados sean evidencias técnicas auditables, el sistem
 
 ## 📦 Entregables
 * **Código Fuente**: [Carpeta /src](./src/main.py) con la lógica de IA y Blockchain.
+* **Resultados**: [Carpeta /results/](./results/estudio_final_neuralhack_v2.csv). Output del codigo fuente.
 * **Documentación Técnica**: [Descargar Memoria en PDF](./docs/Memoria_Tecnica_NeuralHack_Team_Pro.pdf) 📄
 * **Demo**: [Vídeo del funcionamiento](enlace-a-tu-video) 🎥
 

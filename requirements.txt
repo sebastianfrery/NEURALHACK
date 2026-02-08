@@ -1,0 +1,13 @@
+# Core AI & Computer Vision
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision
+opencv-python
+
+# Data Processing
+pandas
+numpy
+tqdm
+
+# Utilities
+python-dotenv

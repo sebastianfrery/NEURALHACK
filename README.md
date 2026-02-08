@@ -46,7 +46,7 @@ Para asegurar que los resultados sean evidencias técnicas auditables, el sistem
 ### Configuración
 1. **Clonar el repositorio**:
    ```bash
-   git clone [https://github.com/sebastianfrery/NEURALHACK.git](https://github.com/sebastianfrery/NEURALHACK.git)
+   git clone [https://github.com/sebastianfrery/NEURALHACK.git]
    cd NEURALHACK
 
 2. **Instalar dependencias**:

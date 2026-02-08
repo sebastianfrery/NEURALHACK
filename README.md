@@ -83,6 +83,7 @@ https://gemini.google.com/app/76dd2d6d686bfd99
 * **Resultados**: [Carpeta /output/](./output/estudio_final_neuralhack_v2.csv). Resultados del codigo fuente.
 * **Documentación Técnica**: [Descargar Memoria en PDF](./docs/Memoria_Tecnica_NeuralHack_Team_Pro.pdf) 📄
 * **Demo**: [Vídeo del funcionamiento](enlace-a-tu-video) 🎥
+* **Frontend en la nube**:https://neuralhack-esf6q74a9hayw3hdr2evp5.streamlit.app
 
 
 ---

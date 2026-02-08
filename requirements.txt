@@ -1,20 +1,5 @@
-# Core AI & Computer Vision
-ultralytics>=8.0.0
-torch>=2.0.0
-torchvision
-opencv-python
 
-# Data Processing
-pandas
-numpy
-tqdm
-
-# Utilities
-python-dotenv
-
-# Frontend
 streamlit==1.28.2
 altair==4.2.2
 pandas
 plotly
-numpy

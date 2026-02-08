@@ -11,3 +11,7 @@ tqdm
 
 # Utilities
 python-dotenv
+
+# Frontend
+streamlit
+plotly

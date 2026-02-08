@@ -74,7 +74,7 @@ Dataset 1: Traffic Images captured from UAVs.
 https://www.kaggle.com/datasets/javiersanchezsoriano/traffic-images-captured-from-uavs/data
 
 Dataset 2: Roundabout Aerial Images for Vehicle Detection. 
-https://gemini.google.com/app/76dd2d6d686bfd99
+https://www.kaggle.com/datasets/javiersanchezsoriano/roundabout-aerial-images-for-vehicle-detection
 
 ---
 
